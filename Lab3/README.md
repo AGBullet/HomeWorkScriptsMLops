@@ -4,3 +4,4 @@
 - app.py: Python-сценарий, который определяет приложение Flask и конечную точку предсказания.
 - Dockerfile: Dockerfile, используемый для создания образа Docker для приложения.
 - requirements.txt: Список необходимых пакетов Python для запуска приложения.
+![image](https://github.com/AGBullet/HomeWorkScriptsMLops/assets/78823503/15d9bf30-7faa-494b-ab4b-3748a6a6dc67)
